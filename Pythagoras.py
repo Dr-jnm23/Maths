@@ -1,6 +1,6 @@
 from math import sqrt
 
-print('Pythagorean theorem calculator!')
+print('Pythagorean theorem calculator')
 print('Assume sides are a, b, c and c is hypotenuse')
 formula = input('Which side (a, b, c) do you wish to calculate? side> ')
 
